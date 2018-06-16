@@ -4,11 +4,11 @@ Simple logs collector and service manager.
 
 Functions
 ------------
-*monitoring services states
-*install/uninstall services
-*start, stop, restart services
-*collect logs from redis lists (you may use https://bitbucket.org/Mexanik/rlog_async for logging)
-*filter, sort and save logs
+* monitoring services states
+* install/uninstall services
+* start, stop, restart services
+* collect logs from redis lists (you may use https://bitbucket.org/Mexanik/rlog_async for logging)
+* filter, sort and save logs
 
 Usage
 ------------
