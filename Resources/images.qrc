@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/add.png</file>
+        <file>images/alert.png</file>
+        <file>images/clear.png</file>
+        <file>images/db.png</file>
+        <file>images/delete.png</file>
+        <file>images/editdb.png</file>
+        <file>images/export.png</file>
+        <file>images/help.png</file>
+        <file>images/import.png</file>
+        <file>images/key.png</file>
+        <file>images/loader.gif</file>
+        <file>images/menu.png</file>
+        <file>images/namespace.png</file>
+        <file>images/not_installed.png</file>
+        <file>images/not_running.png</file>
+        <file>images/ok.png</file>
+        <file>images/redis_small_icon.png</file>
+        <file>images/redis_small_icon_offline.png</file>
+        <file>images/refresh.png</file>
+        <file>images/refreshdb.png</file>
+        <file>images/running.png</file>
+        <file>images/terminal.png</file>
+        <file>images/wait.png</file>
+        <file>images/logs.png</file>
+        <file>images/pending.png</file>
+        <file>images/scp.ico</file>
+    </qresource>
+</RCC>

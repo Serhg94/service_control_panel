@@ -1,0 +1,6 @@
+[submodule "deps/qredisclient"]
+	path = deps/qredisclient
+	url = https://github.com/uglide/qredisclient.git
+[submodule "deps/nssm"]
+	path = deps/nssm
+	url = https://github.com/kirillkovalenko/nssm
